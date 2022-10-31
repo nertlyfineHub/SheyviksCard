@@ -18,17 +18,17 @@ let config = {
 
 
   // Цвет иконки загрузки
-  preloaderColor: '#ff0000',
+  preloaderColor: '#ffffff',
 
 
   // Цвет кнопки play
-  playButtonColor: '#ff0000',
+  playButtonColor: '#ffffff',
   // Цвет тени кнопки play
   playButtonShadowColor: 'rgba(255, 0, 55, 5.0)',
 
 
   // Цвет заголовка
-  titleColor: '#FF0000',
+  titleColor: '#ffffff',
   // Цвет тени загаловка
   titleShadowColor: 'rgba(255, 0, 55, 0.6)',
 
@@ -36,10 +36,10 @@ let config = {
   // Текст копирайта
   copyrightText: 'zxc',
   // Цвет копирайта
-  copyrightTextColor: '#f5323c',
+  copyrightTextColor: '#ffffff',
 
   // Цвет иконок социальных сетей
-  socialColor: '#FF0000',
+  socialColor: '#ffffff',
   // Цвет тени иконок социальных сетей
   socialShadowColor: 'rgba(255, 255, 255, 0.2)',
 }
