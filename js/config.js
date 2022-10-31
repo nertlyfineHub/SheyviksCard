@@ -24,13 +24,13 @@ let config = {
   // Цвет кнопки play
   playButtonColor: '#ffffff',
   // Цвет тени кнопки play
-  playButtonShadowColor: 'rgba(255, 0, 55, 5.0)',
+  playButtonShadowColor: 'rgba(255, 255, 255, 5.0)',
 
 
   // Цвет заголовка
   titleColor: '#ffffff',
   // Цвет тени загаловка
-  titleShadowColor: 'rgba(255, 0, 55, 0.6)',
+  titleShadowColor: 'rgba(255, 255, 255, 5.0)',
 
 
   // Текст копирайта
@@ -41,5 +41,5 @@ let config = {
   // Цвет иконок социальных сетей
   socialColor: '#ffffff',
   // Цвет тени иконок социальных сетей
-  socialShadowColor: 'rgba(255, 255, 255, 0.2)',
+  socialShadowColor: 'rgba(255, 255, 255, 2.0)',
 }
