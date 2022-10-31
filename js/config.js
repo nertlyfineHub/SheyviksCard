@@ -7,13 +7,13 @@ let config = {
   showDelay: 2.5, 
 
   // Заголовок
-  title: 'Sheyviks#0001',
+  title: 'Houndriz#6666',
 
   // Социальные сети
   social: {
-    telegram: '@sheyviks',
-    steam: 'sheyviks',
-    vk: 'sheyviks', 
+    telegram: '@houndriz',
+    steam: 'houndriz',
+    vk: 'houndriz', 
   },
 
 
