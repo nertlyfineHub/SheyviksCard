@@ -7,13 +7,13 @@ let config = {
   showDelay: 2.5, 
 
   // Заголовок
-  title: 'Houndriz#6666',
+  title: 'Hontri#6666',
 
   // Социальные сети
   social: {
-    telegram: '@houndriz',
-    steam: 'houndriz',
-    vk: 'houndriz', 
+    telegram: '@Hontri',
+    steam: 'Hontri',
+    vk: 'Hontri', 
   },
 
 
